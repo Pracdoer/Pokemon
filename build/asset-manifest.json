@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Pracdoer/pokemon.git/static/css/main.b1d666b4.chunk.css",
+    "main.js": "/git@github.com:Pracdoer/pokemon.git/static/js/main.bfedd49c.chunk.js",
+    "main.js.map": "/git@github.com:Pracdoer/pokemon.git/static/js/main.bfedd49c.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Pracdoer/pokemon.git/static/js/runtime-main.5403b474.js",
+    "runtime-main.js.map": "/git@github.com:Pracdoer/pokemon.git/static/js/runtime-main.5403b474.js.map",
+    "static/js/2.81e73034.chunk.js": "/git@github.com:Pracdoer/pokemon.git/static/js/2.81e73034.chunk.js",
+    "static/js/2.81e73034.chunk.js.map": "/git@github.com:Pracdoer/pokemon.git/static/js/2.81e73034.chunk.js.map",
+    "index.html": "/git@github.com:Pracdoer/pokemon.git/index.html",
+    "precache-manifest.93e52d227a9126deb270f1cd350154e3.js": "/git@github.com:Pracdoer/pokemon.git/precache-manifest.93e52d227a9126deb270f1cd350154e3.js",
+    "service-worker.js": "/git@github.com:Pracdoer/pokemon.git/service-worker.js",
+    "static/css/main.b1d666b4.chunk.css.map": "/git@github.com:Pracdoer/pokemon.git/static/css/main.b1d666b4.chunk.css.map",
+    "static/js/2.81e73034.chunk.js.LICENSE.txt": "/git@github.com:Pracdoer/pokemon.git/static/js/2.81e73034.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5403b474.js",
+    "static/js/2.81e73034.chunk.js",
+    "static/css/main.b1d666b4.chunk.css",
+    "static/js/main.bfedd49c.chunk.js"
+  ]
+}
